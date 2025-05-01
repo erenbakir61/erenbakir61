@@ -4,7 +4,7 @@ Hi 👋 My name is Eren Bakır
 Full-Stack Web Developer
 ------------------------
 
-I have over 1 year of software development experience and I can develop a wide range of web application projects. I have completed over 5 SPA (Single Page Application) and 2 full-stack applications about company management systems that met the needs of clients.
+I have over 2 year of software development experience and I can develop a wide range of web application projects. I have completed over 5 SPA (Single Page Application) and 4 full-stack applications about company management systems that met the needs of clients.
 
 *   🌍  I'm based in Istanbul
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/erenbakir61/)
